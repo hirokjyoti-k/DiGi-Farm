@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400129353739",
+    "firebase_url": "https://digi-farm.firebaseio.com",
+    "project_id": "digi-farm",
+    "storage_bucket": "digi-farm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400129353739:android:8722984f896dd8eb4c7f0e",
+        "android_client_info": {
+          "package_name": "com.infosyialab.digifarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400129353739-0p7d26a0iqdcgt2ike26omgd4ieiuu16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infosyialab.digifarm",
+            "certificate_hash": "e23c7cdadda48c84c1c17c7c9ac99653eb716009"
+          }
+        },
+        {
+          "client_id": "400129353739-vlvq49m8l08v74q8vdit5v1akk1oa9f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCweYxbnyvwCd8eEfOdH80jSO-PG4WIFrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400129353739-vlvq49m8l08v74q8vdit5v1akk1oa9f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

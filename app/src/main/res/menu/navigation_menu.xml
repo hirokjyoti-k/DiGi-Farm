@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_perm_identity_black_24dp"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/weather"
+            android:icon="@drawable/ic_wb_sunny_black_24dp"
+            android:title="Weather" />
+
+        <item
+            android:id="@+id/guide"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="Guide" />
+
+
+
+    </group>
+
+
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+
+</menu>
